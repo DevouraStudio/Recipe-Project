@@ -1,0 +1,101 @@
+body {
+	background-color: hsl(30, 54%, 90%);
+	margin: 5rem 20rem;
+	text-transform: capitalize;
+	text-align: left;
+}
+
+#content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+	border-radius: 1rem;
+	padding: 0 1.5rem 2rem 1.5rem;
+}
+
+.h1 {
+	font-family: young-serif, serif;
+	font-weight: 600;
+	font-size: 3.5rem;
+	margin-bottom: 1rem;
+}
+
+img {
+	border-radius: 1.5rem;
+}
+
+p {
+	font-family: outfit, sans-serif;
+	font-size: 16px;
+	color: black;
+	text-align: justify;
+}
+
+#alert {
+	width: 100%;
+	background-color: hsl(330, 100%, 98%);
+	color: hsl(332, 51%, 32%);
+	border: none;
+}
+
+.h2 {
+	font-family: young-serif, serif;
+	font-weight: 600;
+	font-size: 2.5rem;
+	color: hsl(14, 45%, 36%);
+}
+
+#Ingredients {
+	width: 100%;
+}
+
+
+#List {
+	color: hsl(14, 45%, 36%);
+}
+
+.h3 {
+	font-family: outfit, sans-serif;
+	color: hsl(30, 10%, 34%);
+	font-size: 1.5rem;
+}
+
+ol {
+	color: hsl(14, 45%, 36%);
+	font-weight: bold;
+	font-size: 1.3rem;
+
+}
+
+.table {
+	font-family: outfit, sans-serif;
+}
+
+.table-responsive table tr td {
+	color: hsl(14, 45%, 36%);
+	font-weight: 600;
+	font-size: 1.3rem;
+}
+
+.table-responsive table tr #first {
+	color: hsl(30, 10%, 34%);
+}
+
+.table-responsive table tr #second {
+	color: hsl(30, 10%, 34%);
+}
+
+.table-responsive table tr #third {
+	color: hsl(30, 10%, 34%);
+}
+
+.table-responsive table tr #fourth {
+	color: hsl(30, 10%, 34%);
+}
+
+td {
+	font-weight: 600;
+	font-size: 1.3rem;
+}
